@@ -1,4 +1,4 @@
-# BankAccount
+# Bank Account
 
 (NOTE: This software was created with my classmates Amirzhan Skakov, Cole Prochilo, and Betty Gebru for our software engineering course, guided by Professor Doug Turnbull.)
 
