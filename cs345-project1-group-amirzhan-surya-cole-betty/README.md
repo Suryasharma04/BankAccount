@@ -13,7 +13,3 @@ Link to UML Class Diagram:
 Link to Sequence Diagram:
 << https://drive.google.com/file/d/1wAKojCr0o-OnfvYtJ9GFoaicl97hG-Pw/view?usp=drive_link >>
 
-Link to Report:
-<< https://docs.google.com/document/d/1JFnIpnofpbC_xCe8Xkfle2kM7pRJNtey-qkcnlQxplY/edit?usp=sharing >>
-
-
